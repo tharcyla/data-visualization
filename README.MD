@@ -7,7 +7,7 @@ May 28, 2022
 Still Ongoing :hourglass_flowing_sand:
 
 ## Description
-One of the courses in Udacity's Data Analyst Nanodegree is on Data Visualization.
+One of the courses in Udacity's [Data Analyst Nanodegree](https://learn.udacity.com/nanodegrees/nd002) is on Data Visualization.
 
 Each Jupyter Notebook in this repository contain my notes, quizzes answers, and practical case studies.
 
