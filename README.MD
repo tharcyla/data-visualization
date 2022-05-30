@@ -14,3 +14,4 @@ Each Jupyter Notebook in this repository contain my notes, quizzes answers, and 
 ## Files
 1. [Data Visualization in Data Analysis](01_Data-Vis-in-Data-Analysis.ipynb)
 2. [Design of Visualizations](02_Design-of-Visualizations.ipynb)
+3. [Univariate Exploration of Data](03_Univariate-Exploration-of-Data.ipynb)
