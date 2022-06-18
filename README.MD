@@ -16,3 +16,4 @@ Each Jupyter Notebook in this repository contain my notes, quizzes answers, and 
 2. [Design of Visualizations](02_Design-of-Visualizations.ipynb)
 3. [Univariate Exploration of Data](03_Univariate-Exploration-of-Data.ipynb)
 4. [Bivariate Exploration of Data](04_Bivariate-Exploration-of-Data.ipynb)
+5. [Multivariate Exploration of Data](05_Multivariate-Exploration-of-Data.ipynb)
